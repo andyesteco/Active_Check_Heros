@@ -1,0 +1,103 @@
+{
+  "checked_at_utc": "2026-08-12T09:18:49Z",
+  "results": [
+    {
+      "producto": "Wayne 2-Brenner",
+      "sku": "wayne-balkongrill-2-brenner",
+      "canal": "Webshop",
+      "estado": "DESCONOCIDO",
+      "evidencia": "No se pudo acceder a www.burnhard.com: bloqueado por el proxy de egress de red del entorno (CONNECT rechazado con 403)."
+    },
+    {
+      "producto": "Wayne 2-Brenner",
+      "sku": "B0DMFFGM1Z",
+      "canal": "Amazon_DE",
+      "estado": "LIVE",
+      "evidencia": "listing_status=active (Helium10 get_product_live_status)"
+    },
+    {
+      "producto": "Wayne Jr. 1-Brenner (inkl. Adapter)",
+      "sku": "wayne-jr-balkongrill-1-brenner-inkl-gasflaschen-adapter",
+      "canal": "Webshop",
+      "estado": "DESCONOCIDO",
+      "evidencia": "No se pudo acceder a www.burnhard.com: bloqueado por el proxy de egress de red del entorno (CONNECT rechazado con 403)."
+    },
+    {
+      "producto": "Wayne Jr. 1-Brenner (inkl. Adapter)",
+      "sku": "B0FNN8P4JP",
+      "canal": "Amazon_DE",
+      "estado": "LIVE",
+      "evidencia": "listing_status=active (Helium10 get_product_live_status)"
+    },
+    {
+      "producto": "Tony Gas-Pizzaofen",
+      "sku": "tony-gas-pizzaofen",
+      "canal": "Webshop",
+      "estado": "DESCONOCIDO",
+      "evidencia": "No se pudo acceder a www.burnhard.com: bloqueado por el proxy de egress de red del entorno (CONNECT rechazado con 403)."
+    },
+    {
+      "producto": "Tony Gas-Pizzaofen",
+      "sku": "B0DGVCN1CT",
+      "canal": "Amazon_DE",
+      "estado": "LIVE",
+      "evidencia": "listing_status=active (Helium10 get_product_live_status)"
+    },
+    {
+      "producto": "Fat Tony Gas-Pizzaofen",
+      "sku": "fat-tony-gas-pizzaofen",
+      "canal": "Webshop",
+      "estado": "DESCONOCIDO",
+      "evidencia": "No se pudo acceder a www.burnhard.com: bloqueado por el proxy de egress de red del entorno (CONNECT rechazado con 403)."
+    },
+    {
+      "producto": "Fat Tony Gas-Pizzaofen",
+      "sku": "B0F48D4BFV",
+      "canal": "Amazon_DE",
+      "estado": "LIVE",
+      "evidencia": "listing_status=active (Helium10 get_product_live_status)"
+    },
+    {
+      "producto": "Jones Campinggrill 2-Brenner",
+      "sku": "jones-campinggrill-2-brenner",
+      "canal": "Webshop",
+      "estado": "DESCONOCIDO",
+      "evidencia": "No se pudo acceder a www.burnhard.com: bloqueado por el proxy de egress de red del entorno (CONNECT rechazado con 403)."
+    },
+    {
+      "producto": "Jones Campinggrill 2-Brenner",
+      "sku": "B0CW1R9DT1",
+      "canal": "Amazon_DE",
+      "estado": "LIVE",
+      "evidencia": "listing_status=active (Helium10 get_product_live_status)"
+    },
+    {
+      "producto": "Jones Campinggrill 1-Brenner",
+      "sku": "jones-campinggrill-1-brenner",
+      "canal": "Webshop",
+      "estado": "DESCONOCIDO",
+      "evidencia": "No se pudo acceder a www.burnhard.com: bloqueado por el proxy de egress de red del entorno (CONNECT rechazado con 403)."
+    },
+    {
+      "producto": "Jones Campinggrill 1-Brenner",
+      "sku": "B0F24S1SW9",
+      "canal": "Amazon_DE",
+      "estado": "LIVE",
+      "evidencia": "listing_status=active (Helium10 get_product_live_status)"
+    },
+    {
+      "producto": "Flint Pelletsmoker",
+      "sku": "flint-pelletsmoker",
+      "canal": "Webshop",
+      "estado": "DESCONOCIDO",
+      "evidencia": "No se pudo acceder a www.burnhard.com: bloqueado por el proxy de egress de red del entorno (CONNECT rechazado con 403)."
+    },
+    {
+      "producto": "Flint Pelletsmoker",
+      "sku": "B0D42719VL",
+      "canal": "Amazon_DE",
+      "estado": "LIVE",
+      "evidencia": "listing_status=active (Helium10 get_product_live_status)"
+    }
+  ]
+}
