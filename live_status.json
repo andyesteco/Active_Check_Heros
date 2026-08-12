@@ -1,12 +1,12 @@
 {
-  "checked_at_utc": "2026-08-12T09:18:49Z",
+  "checked_at_utc": "2026-08-12T09:27:24Z",
   "results": [
     {
       "producto": "Wayne 2-Brenner",
       "sku": "wayne-balkongrill-2-brenner",
       "canal": "Webshop",
-      "estado": "DESCONOCIDO",
-      "evidencia": "No se pudo acceder a www.burnhard.com: bloqueado por el proxy de egress de red del entorno (CONNECT rechazado con 403)."
+      "estado": "LIVE",
+      "evidencia": "Auf Lager. Versand in 2-4 Werktagen; boton In den Warenkorb activo (269,00 EUR)."
     },
     {
       "producto": "Wayne 2-Brenner",
@@ -19,8 +19,8 @@
       "producto": "Wayne Jr. 1-Brenner (inkl. Adapter)",
       "sku": "wayne-jr-balkongrill-1-brenner-inkl-gasflaschen-adapter",
       "canal": "Webshop",
-      "estado": "DESCONOCIDO",
-      "evidencia": "No se pudo acceder a www.burnhard.com: bloqueado por el proxy de egress de red del entorno (CONNECT rechazado con 403)."
+      "estado": "LIVE",
+      "evidencia": "Auf Lager. Versand in 2-4 Werktagen; boton In den Warenkorb activo (179,00 EUR)."
     },
     {
       "producto": "Wayne Jr. 1-Brenner (inkl. Adapter)",
@@ -33,8 +33,8 @@
       "producto": "Tony Gas-Pizzaofen",
       "sku": "tony-gas-pizzaofen",
       "canal": "Webshop",
-      "estado": "DESCONOCIDO",
-      "evidencia": "No se pudo acceder a www.burnhard.com: bloqueado por el proxy de egress de red del entorno (CONNECT rechazado con 403)."
+      "estado": "LIVE",
+      "evidencia": "Auf Lager. Versand in 2-4 Werktagen; boton In den Warenkorb activo (249,00 EUR)."
     },
     {
       "producto": "Tony Gas-Pizzaofen",
@@ -47,8 +47,8 @@
       "producto": "Fat Tony Gas-Pizzaofen",
       "sku": "fat-tony-gas-pizzaofen",
       "canal": "Webshop",
-      "estado": "DESCONOCIDO",
-      "evidencia": "No se pudo acceder a www.burnhard.com: bloqueado por el proxy de egress de red del entorno (CONNECT rechazado con 403)."
+      "estado": "LIVE",
+      "evidencia": "Auf Lager. Versand in 2-4 Werktagen; boton In den Warenkorb activo (499,00 EUR)."
     },
     {
       "producto": "Fat Tony Gas-Pizzaofen",
@@ -61,8 +61,8 @@
       "producto": "Jones Campinggrill 2-Brenner",
       "sku": "jones-campinggrill-2-brenner",
       "canal": "Webshop",
-      "estado": "DESCONOCIDO",
-      "evidencia": "No se pudo acceder a www.burnhard.com: bloqueado por el proxy de egress de red del entorno (CONNECT rechazado con 403)."
+      "estado": "LIVE",
+      "evidencia": "Auf Lager. Versand in 2-4 Werktagen; boton In den Warenkorb activo (249,00 EUR)."
     },
     {
       "producto": "Jones Campinggrill 2-Brenner",
@@ -75,8 +75,8 @@
       "producto": "Jones Campinggrill 1-Brenner",
       "sku": "jones-campinggrill-1-brenner",
       "canal": "Webshop",
-      "estado": "DESCONOCIDO",
-      "evidencia": "No se pudo acceder a www.burnhard.com: bloqueado por el proxy de egress de red del entorno (CONNECT rechazado con 403)."
+      "estado": "LIVE",
+      "evidencia": "Auf Lager; boton In den Warenkorb activo (159,00 EUR)."
     },
     {
       "producto": "Jones Campinggrill 1-Brenner",
@@ -89,8 +89,8 @@
       "producto": "Flint Pelletsmoker",
       "sku": "flint-pelletsmoker",
       "canal": "Webshop",
-      "estado": "DESCONOCIDO",
-      "evidencia": "No se pudo acceder a www.burnhard.com: bloqueado por el proxy de egress de red del entorno (CONNECT rechazado con 403)."
+      "estado": "LIVE",
+      "evidencia": "Auf Lager. Versand in 2-4 Werktagen; boton In den Warenkorb activo (949,00 EUR)."
     },
     {
       "producto": "Flint Pelletsmoker",
