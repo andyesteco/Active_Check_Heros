@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-19T05:05:00Z",
+  "checked_at_utc": "2026-08-19T11:10:00Z",
   "results": [
     {
       "producto": "Wayne 2-Brenner",
@@ -41,7 +41,7 @@
       "sku": null,
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Auf Lager; Button \"In den Warenkorb\" aktiv (Versand 2-4 Werktagen)"
+      "evidencia": "Auf Lager. Versand in 2-4 Werktagen; Button \"In den Warenkorb\" aktiv"
     },
     {
       "producto": "Flint Pelletsmoker",
@@ -58,7 +58,7 @@
       "evidencia": "listing_status=Active, current_qty=196, fba_qty=0"
     },
     {
-      "producto": "Wayne Jr. 1-Brenner (Bundle)",
+      "producto": "Wayne Jr. 1-Brenner (inkl. Adapter)",
       "sku": "946830",
       "canal": "Amazon_DE",
       "estado": "LIVE",
@@ -90,7 +90,7 @@
       "sku": "946369",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=0, fba_qty=90"
+      "evidencia": "listing_status=Active, current_qty=0, fba_qty=91"
     },
     {
       "producto": "Flint Pelletsmoker",
