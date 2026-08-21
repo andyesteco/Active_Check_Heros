@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-20T15:16:51Z",
+  "checked_at_utc": "2026-08-21T05:05:34Z",
   "results": [
     {
       "producto": "Wayne 2-Brenner",
@@ -34,7 +34,7 @@
       "sku": null,
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Auf Lager; Button \"In den Warenkorb\" aktiv; Versand in 2-4 Werktagen"
+      "evidencia": "Auf Lager. Versand in 2-4 Werktagen; Button \"In den Warenkorb\" aktiv"
     },
     {
       "producto": "Jones Campinggrill 1-Brenner",
@@ -55,49 +55,49 @@
       "sku": "944219",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=188, fba_qty=0"
+      "evidencia": "listing_status=Active, current_qty=170, fba_qty=0"
     },
     {
       "producto": "Wayne Jr. 1-Brenner (inkl. Adapter)",
       "sku": "946830",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=235, fba_qty=0"
+      "evidencia": "listing_status=Active, current_qty=232, fba_qty=0"
     },
     {
       "producto": "Tony Gas-Pizzaofen",
       "sku": "945615",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=751, fba_qty=0"
+      "evidencia": "listing_status=Active, current_qty=728, fba_qty=0"
     },
     {
       "producto": "Fat Tony Gas-Pizzaofen",
       "sku": "945613",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=187, fba_qty=0"
+      "evidencia": "listing_status=Active, current_qty=160, fba_qty=0"
     },
     {
       "producto": "Jones Campinggrill 2-Brenner",
       "sku": "945835",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=522, fba_qty=0"
+      "evidencia": "listing_status=Active, current_qty=521, fba_qty=0"
     },
     {
       "producto": "Jones Campinggrill 1-Brenner",
       "sku": "946369",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=0, fba_qty=91"
+      "evidencia": "listing_status=Active, current_qty=0, fba_qty=88"
     },
     {
       "producto": "Flint Pelletsmoker",
       "sku": "945915",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=377, fba_qty=0"
+      "evidencia": "listing_status=Active, current_qty=364, fba_qty=0"
     }
   ]
 }
