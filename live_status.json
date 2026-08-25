@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-25T05:10:53Z",
+  "checked_at_utc": "2026-08-25T11:11:48Z",
   "results": [
     {
       "producto": "Wayne 2-Brenner",
@@ -83,14 +83,14 @@
       "sku": "945835",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=0, fba_qty=160"
+      "evidencia": "listing_status=Active, current_qty=0, fba_qty=161"
     },
     {
       "producto": "Jones Campinggrill 1-Brenner",
       "sku": "946369",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=0, fba_qty=85"
+      "evidencia": "listing_status=Active, current_qty=0, fba_qty=84"
     },
     {
       "producto": "Flint Pelletsmoker",
