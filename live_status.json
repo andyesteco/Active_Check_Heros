@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-24T15:16:08Z",
+  "checked_at_utc": "2026-08-25T05:10:53Z",
   "results": [
     {
       "producto": "Wayne 2-Brenner",
@@ -55,49 +55,49 @@
       "sku": "944219",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=98, fba_qty=0"
+      "evidencia": "listing_status=Active, current_qty=93, fba_qty=0"
     },
     {
       "producto": "Wayne Jr. 1-Brenner (inkl. Adapter)",
       "sku": "946830",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=207, fba_qty=0"
+      "evidencia": "listing_status=Active, current_qty=202, fba_qty=0"
     },
     {
       "producto": "Tony Gas-Pizzaofen",
       "sku": "945615",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=668, fba_qty=0"
+      "evidencia": "listing_status=Active, current_qty=0, fba_qty=80"
     },
     {
       "producto": "Fat Tony Gas-Pizzaofen",
       "sku": "945613",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=83, fba_qty=0"
+      "evidencia": "listing_status=Active, current_qty=68, fba_qty=0"
     },
     {
       "producto": "Jones Campinggrill 2-Brenner",
       "sku": "945835",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=492, fba_qty=0"
+      "evidencia": "listing_status=Active, current_qty=0, fba_qty=160"
     },
     {
       "producto": "Jones Campinggrill 1-Brenner",
       "sku": "946369",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=0, fba_qty=84"
+      "evidencia": "listing_status=Active, current_qty=0, fba_qty=85"
     },
     {
       "producto": "Flint Pelletsmoker",
       "sku": "945915",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=338, fba_qty=0"
+      "evidencia": "listing_status=Active, current_qty=337, fba_qty=0"
     }
   ]
 }
