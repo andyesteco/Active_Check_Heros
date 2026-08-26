@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-25T15:17:33Z",
+  "checked_at_utc": "2026-08-26T05:07:32Z",
   "results": [
     {
       "producto": "Wayne 2-Brenner",
@@ -55,14 +55,14 @@
       "sku": "944219",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=90, fba_qty=0"
+      "evidencia": "listing_status=Active, current_qty=88, fba_qty=0"
     },
     {
       "producto": "Wayne Jr. 1-Brenner (inkl. Adapter)",
       "sku": "946830",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=200, fba_qty=0"
+      "evidencia": "listing_status=Active, current_qty=197, fba_qty=0"
     },
     {
       "producto": "Tony Gas-Pizzaofen",
@@ -76,7 +76,7 @@
       "sku": "945613",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=63, fba_qty=0"
+      "evidencia": "listing_status=Active, current_qty=56, fba_qty=0"
     },
     {
       "producto": "Jones Campinggrill 2-Brenner",
@@ -90,14 +90,14 @@
       "sku": "946369",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=0, fba_qty=84"
+      "evidencia": "listing_status=Active, current_qty=0, fba_qty=82"
     },
     {
       "producto": "Flint Pelletsmoker",
       "sku": "945915",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=337, fba_qty=0"
+      "evidencia": "listing_status=Active, current_qty=335, fba_qty=0"
     }
   ]
 }
