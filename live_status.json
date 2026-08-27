@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-27T05:14:47Z",
+  "checked_at_utc": "2026-08-27T11:09:56Z",
   "results": [
     {
       "producto": "Wayne 2-Brenner",
@@ -13,7 +13,7 @@
       "sku": "946830",
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Auf Lager. Versand in 2-4 Werktagen; Button 'In den Warenkorb' aktiv"
+      "evidencia": "Auf Lager; Button 'In den Warenkorb' aktiv"
     },
     {
       "producto": "Tony Gas-Pizzaofen",
@@ -69,7 +69,7 @@
       "sku": "945615",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=0, fba_qty=80"
+      "evidencia": "listing_status=Active, current_qty=0, fba_qty=79"
     },
     {
       "producto": "Fat Tony Gas-Pizzaofen",
@@ -90,7 +90,7 @@
       "sku": "946369",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=0, fba_qty=83"
+      "evidencia": "listing_status=Active, current_qty=0, fba_qty=84"
     },
     {
       "producto": "Flint Pelletsmoker",
