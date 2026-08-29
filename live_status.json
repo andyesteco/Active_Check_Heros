@@ -1,54 +1,54 @@
 {
-  "checked_at_utc": "2026-08-29T11:06:02Z",
+  "checked_at_utc": "2026-08-29T15:08:41Z",
   "results": [
     {
       "producto": "Wayne 2-Brenner",
       "sku": "944219",
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Auf Lager. Versand in 2-4 Werktagen. Botón 'In den Warenkorb' activo."
+      "evidencia": "Auf Lager. Versand in 2-4 Werktagen. Boton 'In den Warenkorb' activo."
     },
     {
       "producto": "Wayne Jr. 1-Brenner (inkl. Adapter)",
       "sku": "946830",
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Auf Lager. Versand in 2-4 Werktagen. Botón 'In den Warenkorb' activo."
+      "evidencia": "Auf Lager. Versand in 2-4 Werktagen. Boton 'In den Warenkorb' activo."
     },
     {
       "producto": "Tony Gas-Pizzaofen",
       "sku": "945615",
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Auf Lager. Versand in 2-4 Werktagen. Botón 'In den Warenkorb' activo."
+      "evidencia": "Auf Lager. Versand in 2-4 Werktagen. Boton 'In den Warenkorb' activo."
     },
     {
       "producto": "Fat Tony Gas-Pizzaofen",
       "sku": "945613",
       "canal": "Webshop",
-      "estado": "LIVE",
-      "evidencia": "Auf Lager. Versand in 2-4 Werktagen. Botón 'In den Warenkorb' activo."
+      "estado": "NO_DISPONIBLE",
+      "evidencia": "Nicht auf Lager. Voraussichtlich wieder verfuegbar ab 16. September 2026. Opcion de notificacion por email."
     },
     {
       "producto": "Jones Campinggrill 2-Brenner",
       "sku": "945835",
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Auf Lager. Botón 'In den Warenkorb' activo."
+      "evidencia": "Auf Lager. Versand in 2-4 Werktagen. Boton 'In den Warenkorb' activo."
     },
     {
       "producto": "Jones Campinggrill 1-Brenner",
       "sku": "946369",
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Auf Lager. Versand in 2-4 Werktagen. Botón 'In den Warenkorb' activo."
+      "evidencia": "Auf Lager. Versand in 2-4 Werktagen. Boton 'In den Warenkorb' activo."
     },
     {
       "producto": "Flint Pelletsmoker",
       "sku": "945915",
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Auf Lager. Versand in 2-4 Werktagen. Botón 'In den Warenkorb' activo."
+      "evidencia": "Auf Lager. Versand in 2-4 Werktagen. Boton 'In den Warenkorb' activo."
     },
     {
       "producto": "Wayne 2-Brenner",
