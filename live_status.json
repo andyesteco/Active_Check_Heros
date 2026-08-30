@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-30T11:06:47Z",
+  "checked_at_utc": "2026-08-30T15:08:00Z",
   "results": [
     {
       "producto": "Wayne 2-Brenner",
@@ -27,7 +27,7 @@
       "sku": "945613",
       "canal": "Webshop",
       "estado": "NO_DISPONIBLE",
-      "evidencia": "Nicht auf Lager. Voraussichtlich wieder verfuegbar ab 16. September 2026. Opcion de notificacion por email ('Benachrichtige mich')."
+      "evidencia": "Nicht auf Lager. Voraussichtlich wieder verfuegbar ab 16. September 2026. Boton de compra no disponible."
     },
     {
       "producto": "Jones Campinggrill 2-Brenner",
@@ -90,7 +90,7 @@
       "sku": "946369",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=0, fba_qty=85"
+      "evidencia": "listing_status=Active, current_qty=0, fba_qty=84"
     },
     {
       "producto": "Flint Pelletsmoker",
