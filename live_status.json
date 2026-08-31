@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-08-30T15:08:00Z",
+  "checked_at_utc": "2026-08-31T05:20:00Z",
   "results": [
     {
       "producto": "Wayne 2-Brenner",
@@ -55,14 +55,14 @@
       "sku": "944219",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=1058, fba_qty=0"
+      "evidencia": "listing_status=Active, current_qty=1030, fba_qty=0"
     },
     {
       "producto": "Wayne Jr. 1-Brenner (inkl. Adapter)",
       "sku": "946830",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=178, fba_qty=0"
+      "evidencia": "listing_status=Active, current_qty=170, fba_qty=0"
     },
     {
       "producto": "Tony Gas-Pizzaofen",
@@ -90,14 +90,14 @@
       "sku": "946369",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=0, fba_qty=84"
+      "evidencia": "listing_status=Active, current_qty=0, fba_qty=83"
     },
     {
       "producto": "Flint Pelletsmoker",
       "sku": "945915",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=324, fba_qty=0"
+      "evidencia": "listing_status=Active, current_qty=320, fba_qty=0"
     }
   ]
 }
