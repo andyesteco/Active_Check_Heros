@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-05T15:08:20Z",
+  "checked_at_utc": "2026-09-06T05:04:28Z",
   "results": [
     {
       "producto": "Wayne 2-Brenner",
@@ -90,14 +90,14 @@
       "sku": "946369",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=0, fba_qty=78"
+      "evidencia": "listing_status=Active, current_qty=0, fba_qty=79"
     },
     {
       "producto": "Flint Pelletsmoker",
       "sku": "945915",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=308, fba_qty=0"
+      "evidencia": "listing_status=Active, current_qty=307, fba_qty=0"
     }
   ]
 }
