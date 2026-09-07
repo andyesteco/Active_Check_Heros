@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-07T11:08:04Z",
+  "checked_at_utc": "2026-09-07T15:15:02Z",
   "results": [
     {
       "producto": "Wayne 2-Brenner",
@@ -34,7 +34,7 @@
       "sku": "945835",
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Auf Lager. Versand in 2-4 Werktagen + Button 'In den Warenkorb' aktiv"
+      "evidencia": "Auf Lager + Button 'In den Warenkorb' aktiv"
     },
     {
       "producto": "Jones Campinggrill 1-Brenner",
@@ -62,7 +62,7 @@
       "sku": "946830",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=141, fba_qty=0"
+      "evidencia": "listing_status=Active, current_qty=151, fba_qty=0"
     },
     {
       "producto": "Tony Gas-Pizzaofen",
@@ -97,7 +97,7 @@
       "sku": "945915",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=304, fba_qty=0"
+      "evidencia": "listing_status=Active, current_qty=309, fba_qty=0"
     }
   ]
 }
