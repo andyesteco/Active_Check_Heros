@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-10T11:07:33Z",
+  "checked_at_utc": "2026-09-10T15:14:49Z",
   "results": [
     {
       "producto": "Wayne 2-Brenner",
@@ -27,7 +27,7 @@
       "sku": "945613",
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Button 'In den Warenkorb' aktiv (499,00 EUR), keine Hinweise auf Ausverkauft/Nicht verfuegbar"
+      "evidencia": "Auf Lager. Versand in 2-4 Werktagen + Button 'In den Warenkorb' aktiv (499,00 EUR)"
     },
     {
       "producto": "Jones Campinggrill 2-Brenner",
@@ -41,7 +41,7 @@
       "sku": "946369",
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Auf Lager. Versand in 2-4 Werktagen + Button 'In den Warenkorb' aktiv"
+      "evidencia": "Auf Lager. Versand in 2-4 Werktagen + Button 'In den Warenkorb' aktiv (159,00 EUR)"
     },
     {
       "producto": "Flint Pelletsmoker",
@@ -54,50 +54,50 @@
       "producto": "Wayne 2-Brenner",
       "sku": "944219",
       "canal": "Amazon_DE",
-      "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=0, fba_qty=98"
+      "estado": "DESCONOCIDO",
+      "evidencia": "DataDoe export (source Listings, ba689c05d7) devolvio 0 filas para el seller BURNHARD DE incluso sin filtros; fuente habilitada e initialLoadProgress=100, posible interrupcion temporal de datos en DataDoe"
     },
     {
       "producto": "Wayne Jr. 1-Brenner (inkl. Adapter)",
       "sku": "946830",
       "canal": "Amazon_DE",
-      "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=121, fba_qty=0"
+      "estado": "DESCONOCIDO",
+      "evidencia": "DataDoe export (source Listings, ba689c05d7) devolvio 0 filas para el seller BURNHARD DE incluso sin filtros; fuente habilitada e initialLoadProgress=100, posible interrupcion temporal de datos en DataDoe"
     },
     {
       "producto": "Tony Gas-Pizzaofen",
       "sku": "945615",
       "canal": "Amazon_DE",
-      "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=0, fba_qty=75"
+      "estado": "DESCONOCIDO",
+      "evidencia": "DataDoe export (source Listings, ba689c05d7) devolvio 0 filas para el seller BURNHARD DE incluso sin filtros; fuente habilitada e initialLoadProgress=100, posible interrupcion temporal de datos en DataDoe"
     },
     {
       "producto": "Fat Tony Gas-Pizzaofen",
       "sku": "945613",
       "canal": "Amazon_DE",
-      "estado": "NO_DISPONIBLE",
-      "evidencia": "listing_status=Inactive, current_qty=0, fba_qty=0"
+      "estado": "DESCONOCIDO",
+      "evidencia": "DataDoe export (source Listings, ba689c05d7) devolvio 0 filas para el seller BURNHARD DE incluso sin filtros; fuente habilitada e initialLoadProgress=100, posible interrupcion temporal de datos en DataDoe"
     },
     {
       "producto": "Jones Campinggrill 2-Brenner",
       "sku": "945835",
       "canal": "Amazon_DE",
-      "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=0, fba_qty=152"
+      "estado": "DESCONOCIDO",
+      "evidencia": "DataDoe export (source Listings, ba689c05d7) devolvio 0 filas para el seller BURNHARD DE incluso sin filtros; fuente habilitada e initialLoadProgress=100, posible interrupcion temporal de datos en DataDoe"
     },
     {
       "producto": "Jones Campinggrill 1-Brenner",
       "sku": "946369",
       "canal": "Amazon_DE",
-      "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=0, fba_qty=70"
+      "estado": "DESCONOCIDO",
+      "evidencia": "DataDoe export (source Listings, ba689c05d7) devolvio 0 filas para el seller BURNHARD DE incluso sin filtros; fuente habilitada e initialLoadProgress=100, posible interrupcion temporal de datos en DataDoe"
     },
     {
       "producto": "Flint Pelletsmoker",
       "sku": "945915",
       "canal": "Amazon_DE",
-      "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=292, fba_qty=0"
+      "estado": "DESCONOCIDO",
+      "evidencia": "DataDoe export (source Listings, ba689c05d7) devolvio 0 filas para el seller BURNHARD DE incluso sin filtros; fuente habilitada e initialLoadProgress=100, posible interrupcion temporal de datos en DataDoe"
     }
   ]
 }
