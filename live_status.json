@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-11T05:05:47Z",
+  "checked_at_utc": "2026-09-11T11:07:32Z",
   "results": [
     {
       "producto": "Wayne 2-Brenner",
@@ -26,8 +26,8 @@
       "producto": "Fat Tony Gas-Pizzaofen",
       "sku": "945613",
       "canal": "Webshop",
-      "estado": "DESCONOCIDO",
-      "evidencia": "Busqueda exhaustiva (2 pasadas) no encontro 'Auf Lager' ni ningun otro indicador de stock ('Lager', 'verfuegbar', 'stock') en la pagina; boton 'In den Warenkorb' (499,00 EUR) esta activo pero sin texto de disponibilidad que confirme LIVE ni NO_DISPONIBLE"
+      "estado": "LIVE",
+      "evidencia": "Button 'In den Warenkorb' aktiv (499,00 EUR), keine Hinweise auf Ausverkauft/Nicht verfuegbar"
     },
     {
       "producto": "Jones Campinggrill 2-Brenner",
@@ -41,7 +41,7 @@
       "sku": "946369",
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Auf Lager. Versand in 2-4 Werktagen + Button 'In den Warenkorb' aktiv (159,00 EUR)"
+      "evidencia": "Auf Lager. Versand in 2-4 Werktagen + Button 'In den Warenkorb' aktiv"
     },
     {
       "producto": "Flint Pelletsmoker",
@@ -55,14 +55,14 @@
       "sku": "944219",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=0, fba_qty=97"
+      "evidencia": "listing_status=Active, current_qty=0, fba_qty=96"
     },
     {
       "producto": "Wayne Jr. 1-Brenner (inkl. Adapter)",
       "sku": "946830",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=120, fba_qty=0"
+      "evidencia": "listing_status=Active, current_qty=119, fba_qty=0"
     },
     {
       "producto": "Tony Gas-Pizzaofen",
@@ -90,14 +90,14 @@
       "sku": "946369",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=0, fba_qty=70"
+      "evidencia": "listing_status=Active, current_qty=0, fba_qty=71"
     },
     {
       "producto": "Flint Pelletsmoker",
       "sku": "945915",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=290, fba_qty=0"
+      "evidencia": "listing_status=Active, current_qty=289, fba_qty=0"
     }
   ]
 }
