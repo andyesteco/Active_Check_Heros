@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-10T15:14:49Z",
+  "checked_at_utc": "2026-09-11T05:05:47Z",
   "results": [
     {
       "producto": "Wayne 2-Brenner",
@@ -26,8 +26,8 @@
       "producto": "Fat Tony Gas-Pizzaofen",
       "sku": "945613",
       "canal": "Webshop",
-      "estado": "LIVE",
-      "evidencia": "Auf Lager. Versand in 2-4 Werktagen + Button 'In den Warenkorb' aktiv (499,00 EUR)"
+      "estado": "DESCONOCIDO",
+      "evidencia": "Busqueda exhaustiva (2 pasadas) no encontro 'Auf Lager' ni ningun otro indicador de stock ('Lager', 'verfuegbar', 'stock') en la pagina; boton 'In den Warenkorb' (499,00 EUR) esta activo pero sin texto de disponibilidad que confirme LIVE ni NO_DISPONIBLE"
     },
     {
       "producto": "Jones Campinggrill 2-Brenner",
@@ -54,50 +54,50 @@
       "producto": "Wayne 2-Brenner",
       "sku": "944219",
       "canal": "Amazon_DE",
-      "estado": "DESCONOCIDO",
-      "evidencia": "DataDoe export (source Listings, ba689c05d7) devolvio 0 filas para el seller BURNHARD DE incluso sin filtros; fuente habilitada e initialLoadProgress=100, posible interrupcion temporal de datos en DataDoe"
+      "estado": "LIVE",
+      "evidencia": "listing_status=Active, current_qty=0, fba_qty=97"
     },
     {
       "producto": "Wayne Jr. 1-Brenner (inkl. Adapter)",
       "sku": "946830",
       "canal": "Amazon_DE",
-      "estado": "DESCONOCIDO",
-      "evidencia": "DataDoe export (source Listings, ba689c05d7) devolvio 0 filas para el seller BURNHARD DE incluso sin filtros; fuente habilitada e initialLoadProgress=100, posible interrupcion temporal de datos en DataDoe"
+      "estado": "LIVE",
+      "evidencia": "listing_status=Active, current_qty=120, fba_qty=0"
     },
     {
       "producto": "Tony Gas-Pizzaofen",
       "sku": "945615",
       "canal": "Amazon_DE",
-      "estado": "DESCONOCIDO",
-      "evidencia": "DataDoe export (source Listings, ba689c05d7) devolvio 0 filas para el seller BURNHARD DE incluso sin filtros; fuente habilitada e initialLoadProgress=100, posible interrupcion temporal de datos en DataDoe"
+      "estado": "LIVE",
+      "evidencia": "listing_status=Active, current_qty=0, fba_qty=73"
     },
     {
       "producto": "Fat Tony Gas-Pizzaofen",
       "sku": "945613",
       "canal": "Amazon_DE",
-      "estado": "DESCONOCIDO",
-      "evidencia": "DataDoe export (source Listings, ba689c05d7) devolvio 0 filas para el seller BURNHARD DE incluso sin filtros; fuente habilitada e initialLoadProgress=100, posible interrupcion temporal de datos en DataDoe"
+      "estado": "NO_DISPONIBLE",
+      "evidencia": "listing_status=Inactive, current_qty=0, fba_qty=0"
     },
     {
       "producto": "Jones Campinggrill 2-Brenner",
       "sku": "945835",
       "canal": "Amazon_DE",
-      "estado": "DESCONOCIDO",
-      "evidencia": "DataDoe export (source Listings, ba689c05d7) devolvio 0 filas para el seller BURNHARD DE incluso sin filtros; fuente habilitada e initialLoadProgress=100, posible interrupcion temporal de datos en DataDoe"
+      "estado": "LIVE",
+      "evidencia": "listing_status=Active, current_qty=0, fba_qty=152"
     },
     {
       "producto": "Jones Campinggrill 1-Brenner",
       "sku": "946369",
       "canal": "Amazon_DE",
-      "estado": "DESCONOCIDO",
-      "evidencia": "DataDoe export (source Listings, ba689c05d7) devolvio 0 filas para el seller BURNHARD DE incluso sin filtros; fuente habilitada e initialLoadProgress=100, posible interrupcion temporal de datos en DataDoe"
+      "estado": "LIVE",
+      "evidencia": "listing_status=Active, current_qty=0, fba_qty=70"
     },
     {
       "producto": "Flint Pelletsmoker",
       "sku": "945915",
       "canal": "Amazon_DE",
-      "estado": "DESCONOCIDO",
-      "evidencia": "DataDoe export (source Listings, ba689c05d7) devolvio 0 filas para el seller BURNHARD DE incluso sin filtros; fuente habilitada e initialLoadProgress=100, posible interrupcion temporal de datos en DataDoe"
+      "estado": "LIVE",
+      "evidencia": "listing_status=Active, current_qty=290, fba_qty=0"
     }
   ]
 }
