@@ -1,89 +1,68 @@
 {
-  "checked_at_utc": "2026-09-13T15:08:26Z",
+  "checked_at_utc": "2026-09-14T05:05:15Z",
   "results": [
     {
       "producto": "Wayne 2-Brenner",
-      "sku": "944219",
+      "sku": null,
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Auf Lager. Versand in 2-4 Werktagen; Button In den Warenkorb aktiv"
+      "evidencia": "Auf Lager. Versand in 2-4 Werktagen; Button 'In den Warenkorb' aktiv."
     },
     {
       "producto": "Wayne Jr. 1-Brenner (inkl. Adapter)",
-      "sku": "946830",
+      "sku": null,
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Auf Lager. Versand in 2-4 Werktagen; Button In den Warenkorb aktiv"
+      "evidencia": "Auf Lager. Versand in 2-4 Werktagen; Button 'In den Warenkorb' aktiv."
     },
     {
       "producto": "Tony Gas-Pizzaofen",
-      "sku": "945615",
+      "sku": null,
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Auf Lager. Versand in 2-4 Werktagen; Button In den Warenkorb aktiv"
+      "evidencia": "Auf Lager. Versand in 2-4 Werktagen; Button 'In den Warenkorb' aktiv."
     },
     {
       "producto": "Fat Tony Gas-Pizzaofen",
-      "sku": "945613",
+      "sku": null,
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Button In den Warenkorb aktiv, precio 499,00 EUR, entrega MI.21OKT-FR.6NOV; sin textos de no disponibilidad (Ausverkauft/Nicht verfuegbar/Vergriffen)"
+      "evidencia": "Kein expliziter 'Auf Lager'-Text gefunden, aber Button 'In den Warenkorb' aktiv, Preis 499,00 EUR sichtbar y Lieferfenster MI.21OKT-FR.6NOV angezeigt; keine 'Ausverkauft'/'Nicht verfuegbar'/'Vergriffen'-Meldung vorhanden."
     },
     {
       "producto": "Jones Campinggrill 2-Brenner",
-      "sku": "945835",
+      "sku": null,
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Auf Lager. Versand in 2-4 Werktagen; Button In den Warenkorb aktiv"
+      "evidencia": "Auf Lager. Versand in 2-4 Werktagen; Button 'In den Warenkorb' aktiv."
     },
     {
       "producto": "Jones Campinggrill 1-Brenner",
-      "sku": "946369",
+      "sku": null,
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Auf Lager. Versand in 2-4 Werktagen; Button In den Warenkorb aktiv"
+      "evidencia": "Auf Lager. Versand in 2-4 Werktagen; Button 'In den Warenkorb' aktiv."
     },
     {
       "producto": "Flint Pelletsmoker",
-      "sku": "945915",
+      "sku": null,
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Auf Lager. Versand in 2-4 Werktagen; Button In den Warenkorb aktiv"
-    },
-    {
-      "producto": "Jones Campinggrill 1-Brenner",
-      "sku": "946369",
-      "canal": "Amazon_DE",
-      "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=0, fba_qty=70"
-    },
-    {
-      "producto": "Jones Campinggrill 2-Brenner",
-      "sku": "945835",
-      "canal": "Amazon_DE",
-      "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=0, fba_qty=149"
-    },
-    {
-      "producto": "Wayne Jr. 1-Brenner (inkl. Adapter)",
-      "sku": "946830",
-      "canal": "Amazon_DE",
-      "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=111, fba_qty=0"
+      "evidencia": "Auf Lager. Versand in 2-4 Werktagen; Button 'In den Warenkorb' aktiv."
     },
     {
       "producto": "Wayne 2-Brenner",
       "sku": "944219",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=0, fba_qty=90"
+      "evidencia": "listing_status=Active, current_qty=0, fba_qty=87"
     },
     {
-      "producto": "Fat Tony Gas-Pizzaofen",
-      "sku": "945613",
+      "producto": "Wayne Jr. 1-Brenner (Bundle)",
+      "sku": "946830",
       "canal": "Amazon_DE",
-      "estado": "NO_DISPONIBLE",
-      "evidencia": "listing_status=Inactive, current_qty=0, fba_qty=0"
+      "estado": "LIVE",
+      "evidencia": "listing_status=Active, current_qty=108, fba_qty=0"
     },
     {
       "producto": "Tony Gas-Pizzaofen",
@@ -93,11 +72,32 @@
       "evidencia": "listing_status=Active, current_qty=0, fba_qty=60"
     },
     {
+      "producto": "Fat Tony Gas-Pizzaofen",
+      "sku": "945613",
+      "canal": "Amazon_DE",
+      "estado": "NO_DISPONIBLE",
+      "evidencia": "listing_status=Inactive, current_qty=0, fba_qty=0"
+    },
+    {
+      "producto": "Jones Campinggrill 2-Brenner",
+      "sku": "945835",
+      "canal": "Amazon_DE",
+      "estado": "LIVE",
+      "evidencia": "listing_status=Active, current_qty=0, fba_qty=149"
+    },
+    {
+      "producto": "Jones Campinggrill 1-Brenner",
+      "sku": "946369",
+      "canal": "Amazon_DE",
+      "estado": "LIVE",
+      "evidencia": "listing_status=Active, current_qty=0, fba_qty=71"
+    },
+    {
       "producto": "Flint Pelletsmoker",
       "sku": "945915",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=283, fba_qty=0"
+      "evidencia": "listing_status=Active, current_qty=282, fba_qty=0"
     }
   ]
 }
