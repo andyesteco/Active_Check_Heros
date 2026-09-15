@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-15T05:04:58Z",
+  "checked_at_utc": "2026-09-15T11:07:03Z",
   "results": [
     {
       "producto": "Wayne 2-Brenner",
@@ -13,7 +13,7 @@
       "sku": "946830",
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Auf Lager. Versand in 2-4 Werktagen; Button 'In den Warenkorb' aktiv"
+      "evidencia": "Auf Lager; Button 'In den Warenkorb' aktiv; Versand in 2-4 Werktagen"
     },
     {
       "producto": "Tony Gas-Pizzaofen",
@@ -27,7 +27,7 @@
       "sku": "945613",
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Kein texto explicito de stock encontrado en la pagina; Button 'In den Warenkorb' aktiv, sin aviso de agotado/no disponible"
+      "evidencia": "Button 'In den Warenkorb' aktiv, sin aviso de agotado/no disponible; precio 499,00 EUR"
     },
     {
       "producto": "Jones Campinggrill 2-Brenner",
@@ -48,7 +48,7 @@
       "sku": "945915",
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Auf Lager; Button 'In den Warenkorb' aktiv"
+      "evidencia": "Auf Lager. Versand in 2-4 Werktagen; Button 'In den Warenkorb' aktiv"
     },
     {
       "producto": "Wayne 2-Brenner",
