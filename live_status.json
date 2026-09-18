@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-17T15:10:17Z",
+  "checked_at_utc": "2026-09-18T05:04:42Z",
   "results": [
     {
       "producto": "Wayne 2-Brenner",
@@ -13,28 +13,28 @@
       "sku": "946830",
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Auf Lager; boton 'In den Warenkorb' activo; Versand in 2-4 Werktagen"
+      "evidencia": "Auf Lager. Versand in 2-4 Werktagen; boton 'In den Warenkorb' activo"
     },
     {
       "producto": "Tony Gas-Pizzaofen",
       "sku": "945615",
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Auf Lager. Versand in 2-4 Werktagen; boton 'In den Warenkorb' activo"
+      "evidencia": "Auf Lager; Versand in 2-4 Werktagen; boton 'In den Warenkorb' activo"
     },
     {
       "producto": "Fat Tony Gas-Pizzaofen",
       "sku": "945613",
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Boton 'In den Warenkorb' activo, precio 499,00 EUR; sin texto de 'Ausverkauft'/'Nicht verfuegbar'"
+      "evidencia": "Boton 'In den Warenkorb' activo; '16 mal in den letzten 24h gekauft'; sin texto de 'Ausverkauft'/'Nicht verfuegbar'"
     },
     {
       "producto": "Jones Campinggrill 2-Brenner",
       "sku": "945835",
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Auf Lager. Versand in 2-4 Werktagen; boton 'In den Warenkorb' activo"
+      "evidencia": "Auf Lager; boton 'In den Warenkorb' activo; Versand in 2-4 Werktagen"
     },
     {
       "producto": "Jones Campinggrill 1-Brenner",
@@ -69,7 +69,7 @@
       "sku": "945615",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=0, fba_qty=48"
+      "evidencia": "listing_status=Active, current_qty=0, fba_qty=47"
     },
     {
       "producto": "Fat Tony Gas-Pizzaofen",
@@ -90,7 +90,7 @@
       "sku": "946369",
       "canal": "Amazon_DE",
       "estado": "LIVE",
-      "evidencia": "listing_status=Active, current_qty=0, fba_qty=73"
+      "evidencia": "listing_status=Active, current_qty=0, fba_qty=74"
     },
     {
       "producto": "Flint Pelletsmoker",
