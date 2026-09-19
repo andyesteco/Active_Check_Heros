@@ -1,54 +1,54 @@
 {
-  "checked_at_utc": "2026-09-19T05:04:45Z",
+  "checked_at_utc": "2026-09-19T11:06:22Z",
   "results": [
     {
       "producto": "Wayne 2-Brenner",
-      "sku": null,
+      "sku": "944219",
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Auf Lager. Versand in 2-4 Werktagen, boton In den Warenkorb activo"
+      "evidencia": "Auf Lager. Versand in 2-4 Werktagen. Button 'In den Warenkorb' aktiv."
     },
     {
       "producto": "Wayne Jr. 1-Brenner (inkl. Adapter)",
-      "sku": null,
+      "sku": "946830",
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Auf Lager. Versand in 2-4 Werktagen, boton In den Warenkorb activo"
+      "evidencia": "Auf Lager. Versand in 2-4 Werktagen. Button 'In den Warenkorb' aktiv."
     },
     {
       "producto": "Tony Gas-Pizzaofen",
-      "sku": null,
+      "sku": "945615",
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Auf Lager, boton In den Warenkorb activo, Versand in 2-4 Werktagen"
+      "evidencia": "Auf Lager. Button 'In den Warenkorb' aktiv."
     },
     {
       "producto": "Fat Tony Gas-Pizzaofen",
-      "sku": null,
+      "sku": "945613",
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Boton In den Warenkorb activo, Standard Versand con fecha estimada, sin indicacion de Ausverkauft/Nicht verfuegbar/Benachrichtigen wenn verfuegbar"
+      "evidencia": "Button 'In den Warenkorb' aktiv, sin mensajes de 'Ausverkauft'/'Nicht verfuegbar'."
     },
     {
       "producto": "Jones Campinggrill 2-Brenner",
-      "sku": null,
+      "sku": "945835",
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Auf Lager. Versand in 2-4 Werktagen, boton In den Warenkorb activo"
+      "evidencia": "Auf Lager. Versand in 2-4 Werktagen. Button 'In den Warenkorb' aktiv."
     },
     {
       "producto": "Jones Campinggrill 1-Brenner",
-      "sku": null,
+      "sku": "946369",
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Auf Lager, boton In den Warenkorb activo, Versand in 2-4 Werktagen"
+      "evidencia": "Auf Lager. Versand in 2-4 Werktagen. Button 'In den Warenkorb' aktiv."
     },
     {
       "producto": "Flint Pelletsmoker",
-      "sku": null,
+      "sku": "945915",
       "canal": "Webshop",
       "estado": "LIVE",
-      "evidencia": "Auf Lager. Versand in 2-4 Werktagen, boton In den Warenkorb activo"
+      "evidencia": "Auf Lager. Versand in 2-4 Werktagen. Button 'In den Warenkorb' aktiv."
     },
     {
       "producto": "Wayne 2-Brenner",
@@ -58,7 +58,7 @@
       "evidencia": "listing_status=Active, current_qty=0, fba_qty=80"
     },
     {
-      "producto": "Wayne Jr. 1-Brenner (Bundle)",
+      "producto": "Wayne Jr. 1-Brenner (inkl. Adapter)",
       "sku": "946830",
       "canal": "Amazon_DE",
       "estado": "LIVE",
